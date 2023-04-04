@@ -6,5 +6,5 @@ theme: jekyll-theme-architect
 github:
   is_project_page: true
   repository_url: https://github.com/manoa-icstudy/manoa-icstudy.github.io
-gems:
+plugins:
   - jekyll-mentions
