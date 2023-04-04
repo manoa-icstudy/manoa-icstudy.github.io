@@ -13,9 +13,21 @@
 
 ## User Guide
 
-### Landing Page
+### Landing page
 
 ### User home page
+
+### Admin home page
+
+### User profile page
+
+### Calendar page
+
+### Create Study Sesh page
+
+### Study session page
+
+### Game mechanic page
 
 ## Community Feedback
 
