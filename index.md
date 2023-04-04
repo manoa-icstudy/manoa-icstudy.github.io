@@ -19,21 +19,23 @@ The solution: Manoa ICStudy is an application for UHM ICS students to self-organ
 
 ### Landing page
 
-### User home page
+### User home page(Alexander)
 
-### Admin home page
+### Admin home page(Alexander)
 
-### User profile page
+### User profile page(Jordan)
 
-### Calendar page
+### Calendar page(Jordan)
 
-### Create Study Sesh page
+### Create Study Sesh page(Jennifer)
 
-### Study session page
+### Study session page(Jennifer)
 
-### Game mechanic page
+### Game mechanic page(Evan)
 
-## Community Feedback
+### Contact page(Evan)
+
+#### Community Feedback
 
 ## Developer Guide
 
