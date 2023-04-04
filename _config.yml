@@ -2,5 +2,8 @@ title: ICStudy
 description: Study Buddy, Projects, and Interests for the UH Community
 google_analytics:
 theme: jekyll-theme-architect
+github:
+  is_project_page: true
+  repository_url: https://github.com/manoa-icstudy/manoa-icstudy.github.io
 plugins:
   - jekyll-mentions
