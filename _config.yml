@@ -3,6 +3,8 @@ description: Study Buddy, Application, and Interests for the UH Community
 google_analytics:
 theme: jekyll-theme-architect
 github:
-  owner_url: https://github.com/manoa-icstudy/manoa-icstudy.github.io
+  is_project_page: true
+  repository_url: https://github.com/manoa-icstudy/manoa-icstudy.github.io
+  is_user_page: false
 plugins:
   - jekyll-mentions
