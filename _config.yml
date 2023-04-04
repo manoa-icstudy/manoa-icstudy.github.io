@@ -1,7 +1,6 @@
 title: Manoa ICStudy
 description: Study Buddy, Application, and Interests for the UH Community
-github:
-  repository_url: https://github.com/manoa-icstudy/manoa-icstudy.github.io
+url: https://github.com/manoa-icstudy/manoa-icstudy.github.io
 google_analytics:
 theme: jekyll-theme-architect
 plugins:
