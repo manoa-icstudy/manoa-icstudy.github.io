@@ -3,7 +3,7 @@
 ## Table of contents
 
 * [Overview](#overview)
-* [Deployment](#deployment)
+* [Installation](#installation)
 * [Community Feedback](#community-feedback)
 * [Developer Guide](#developer-guide)
 * [Development History](#development-history)
@@ -15,35 +15,66 @@ The problem: ICS students often spend more time than they need on their homework
 
 The solution: Manoa ICStudy is an application for UHM ICS students to self-organize face-to-face study groups around a course and/or specific homework or project topic.
 
+## Features
+- Create face-to-face study sessions
+  - Set location, course, date, time, description, and priorities
+  - Finds someone who has previously taken the course and/or someone who is currently taking it
+  - Finds available study sessions to join
+  - Highlight upcoming sessions today and tomorrow
+- Personal User page
+- Set courses you have taken and courses you are willing to help others in
+
+
 ## User Guide
+Here are the pages we plan to have on our website:
 
-### Landing page
+- Landing page
 
-### User home page(Alexander)
+- User home page
 
-### Admin home page(Alexander)
+- Admin home page
 
-### User profile page(Jordan)
+- User profile page
 
-### Calendar page(Jordan)
+- Calendar page
 
-### Create Study Sesh page(Jennifer)
+- Create Study Sesh page
 
-### Study session page(Jennifer)
+- Study session page
 
-### Game mechanic page(Evan)
+- Game mechanic page
 
-### Contact page(Evan)
+- Contact page
 
-#### Community Feedback
+  - Community Feedback: We are interested in your experience using Manoa ICStudy! If you would like, please take a couple of minutes to fill out this Feedback Form. It can also be found under our contact page.
 
 ## Developer Guide
+This section provides information to developers who wish to use this code base for their own developmental tasks.
+
+### Installation
+First, install Meteor.
+
+Second, visit the ICStudy application github page, and click the “Use this template” button to create your own repository initialized with a copy of this application. Alternatively, you can download the sources as a zip file or make a fork of the repo. However you do it, download a copy of the repo to your local computer.
+
+Third, cd into the icstudy/app directory and install libraries with:
+
+```$ meteor npm install```
+
+Fourth, run the system with:
+
+```$ meteor npm run start```
+
+If all goes well, the application will appear at http://localhost:3000.
 
 ### Application Design
+ICStudy is based upon meteor-application-template-react and meteor-example-form-react. Please use the videos and documentation at those sites to better acquaint yourself with the basic application design and form processing in ICStudy. We also incorporated concepts and resources we learned from our ICS 314 (software engineering) class.
 
 ## Development History
 
 ### Milestone 1: 
+- Mocking up the overall design of our webpage through competition-based development of our landing page
+- Mocking up the content of each of our pages
+- Creating necessary documentation and presentations
 
 ### Milestone 2: 
 
