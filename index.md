@@ -71,7 +71,7 @@ ICStudy is based upon meteor-application-template-react and meteor-example-form-
 
 ## Development History
 
-### Milestone 1: 
+### [Milestone 1](https://github.com/orgs/manoa-icstudy/projects/1/views/1?layout=board): 
 - Mocking up the overall design of our webpage through competition-based development of our landing page
 - Mocking up the content of each of our pages
 - Creating necessary documentation and presentations
