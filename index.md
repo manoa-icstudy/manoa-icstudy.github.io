@@ -30,24 +30,30 @@ The solution: Manoa ICStudy is an application for UHM ICS students to self-organ
 Here are the pages we plan to have on our website:
 
 - Landing page
+![Landing Page](images/LandingPage.png)
 
-- User home page
+- Sign in page
+![Sign In Page](images/Login.png)
 
-- Admin home page
+- Register page
+![Register Page](images/SignUp.png)
 
 - User profile page
+![User Profile Page](images/UserProfile.png)
 
 - Calendar page
+![Calendar Page](images/Calendar.png)
 
-- Create Study Sesh page
+- Create study session page
+![Create Study Session Page](images/CreateStudySessions.png)
 
 - Study session page
-
-- Game mechanic page
+![Study Session Page](images/StudySessions.png)
 
 - Contact page
 
   - Community Feedback: We are interested in your experience using Manoa ICStudy! If you would like, please take a couple of minutes to fill out this Feedback Form. It can also be found under our contact page.
+  ![Community Feedback Page](images/Feedback.png)
 
 ## Developer Guide
 This section provides information to developers who wish to use this code base for their own developmental tasks.
