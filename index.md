@@ -27,6 +27,7 @@ The solution: Manoa ICStudy is an application for UHM ICS students to self-organ
 
 
 ## User Guide
+### ALL IMAGE WILL BE CHANGE IN THE FINAL RELEASE VERSION
 Here are the pages we plan to have on our website:
 
 - Landing page
