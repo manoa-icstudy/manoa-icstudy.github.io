@@ -5,7 +5,7 @@ theme: jekyll-theme-architect
 github:
   is_project_page: true
   repository_url: https://github.com/manoa-icstudy/manoa-icstudy.github.io
-  another_url: https://manoa-icstudy.site/
+  owner_url: https://manoa-icstudy.site/
   is_user_page: false
 plugins:
   - jekyll-mentions
