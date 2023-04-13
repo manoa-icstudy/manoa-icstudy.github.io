@@ -61,6 +61,9 @@ This section provides information to developers who wish to use this code base f
 
 ## Deployment
 We've deployed our application through Digital Ocean [here](https://manoa-icstudy.site/)
+- Basic User
+  - Username: john@foo.com
+  - Password: 1*pUSGAox$3mq
 
 ### Installation
 First, install Meteor.
