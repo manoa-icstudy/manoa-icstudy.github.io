@@ -53,7 +53,7 @@ Here are the pages we plan to have on our website:
 This section provides information to developers who wish to use this code base for their own developmental tasks.
 
 ## Deployment
-We've deployed our application through Digital Ocean [here](http://143.244.149.2/)
+We've deployed our application through Digital Ocean [here](https://manoa-icstudy.site/)
 
 ### Installation
 First, install Meteor.
