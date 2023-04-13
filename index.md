@@ -1,4 +1,4 @@
-# [Manoa ICStudy](http://143.244.149.2/)
+# [Manoa ICStudy](https://manoa-icstudy.site/)
 
 ## Table of contents
 
