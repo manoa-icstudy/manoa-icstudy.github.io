@@ -6,6 +6,7 @@
 * [Installation](#installation)
 * [Community Feedback](#community-feedback)
 * [Developer Guide](#developer-guide)
+* [Deployment](#deployment)
 * [Development History](#development-history)
 * [Team](#team)
 
@@ -50,6 +51,9 @@ Here are the pages we plan to have on our website:
 
 ## Developer Guide
 This section provides information to developers who wish to use this code base for their own developmental tasks.
+
+## [Deployment](http://143.244.149.2/)
+We've deployed our application through Digital Ocean [here](http://143.244.149.2/)
 
 ### Installation
 First, install Meteor.
