@@ -103,3 +103,5 @@ Manoa ICStudy is designed, implemented, and maintained by [Alexander Hung](https
 
 ### [Team Contract](https://docs.google.com/document/d/10MdB72cwWprjIAuWE9Y-79FKaIcFnSHrYCL42ZXevb4/edit?usp=sharing)
 
+![ci-badge](https://github.com/manoa-icstudy/manoa-icstudy/actions/workflows/ci.yml/badge.svg)
+
