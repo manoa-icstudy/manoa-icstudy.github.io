@@ -95,7 +95,10 @@ ICStudy is based upon meteor-application-template-react and meteor-example-form-
 - Developing necessary collections for storing data
 - Making user-interface nicer
 
-### Milestone 3: 
+### [Milestone 3](https://github.com/orgs/manoa-icstudy/projects/4): 
+- Increading functionality
+- Cleaning up user-interface
+- Finishing touches
 
 ## Team
 
