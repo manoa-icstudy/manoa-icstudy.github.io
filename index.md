@@ -63,7 +63,7 @@ This section provides information to developers who wish to use this code base f
 We've deployed our application through Digital Ocean [here](https://manoa-icstudy.site/)
 - Basic User
   - Username: john@foo.com
-  - Password: 1*pUSGAox$3mq
+  - Password: changeme
 
 ### Installation
 First, install Meteor.
@@ -95,11 +95,16 @@ ICStudy is based upon meteor-application-template-react and meteor-example-form-
 - Developing necessary collections for storing data
 - Making user-interface nicer
 
-### Milestone 3: 
+### [Milestone 3](https://github.com/orgs/manoa-icstudy/projects/4): 
+- Increading functionality
+- Cleaning up user-interface
+- Finishing touches
 
 ## Team
 
 Manoa ICStudy is designed, implemented, and maintained by [Alexander Hung](https://alexander-hung.github.io/), [Evan Tahara](https://etahara.github.io/), [Jennifer Nakano](https://jennifermnakano.github.io/) and [Jordan Wong](https://jorwo.github.io/)
 
 ### [Team Contract](https://docs.google.com/document/d/10MdB72cwWprjIAuWE9Y-79FKaIcFnSHrYCL42ZXevb4/edit?usp=sharing)
+
+![ci-badge](https://github.com/manoa-icstudy/manoa-icstudy/actions/workflows/ci.yml/badge.svg)
 
