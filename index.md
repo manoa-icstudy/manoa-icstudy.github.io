@@ -88,7 +88,7 @@ Here are the user pages have on our website:
 - Admin Report List: Here admin roles can see the reports that have been filed against users.
 ![Admin Report List](images/AdminReportList.png)
 - Admin Feedback List: Here admin roles can see the feedback users have given about the site
-![Admin Feedback List](images/AdminFeedbacklist.png)
+![Admin Feedback List](images/AdminFeedbackList.png)
 
 ## Community Feedback
 We have gotten a lot of feedback about our site and some common points of improvements we've noticed were that we can improve the initial user experience in how the website works and provide more information to the user when requested, such as class descriptions. There are small improvements we can add to existing areas but the overall consensus of the website was very positive.
