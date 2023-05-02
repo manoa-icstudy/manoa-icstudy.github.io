@@ -61,7 +61,7 @@ We have gotten a lot of feedback and overall comments from the UH community. Her
 - "overall, I think the website is good, I liked that there was a calendar aspect to it, as well as a leaderboard to make users want to engage and use the website more. The study sessions were also clean, you can see the important notes easily." - Gwyneth
 - "Design of the site was intuitive and polished. I especially liked the look of the study session cards and integration of the calendar. I thought the landing page with the animations was nice. I also liked that there were a lot of resources in the footer. Overall, great job! :)" - Kayla
 - "The site is easy and simple to navigate. All the information I need to know for the study sessions are available with a single click." - Joshua
-- "Good user interface, easy to use scheduling features, and visually appealing display" - anonymous
+- "Good user interface, easy to use scheduling features, and visually appealing display" - Dylan
 - "Overall, this website was really fun and has a really nice design." - Urban 
 
 ## Developer Guide
