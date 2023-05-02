@@ -3,10 +3,13 @@
 ## Table of contents
 
 * [Overview](#overview)
-* [Installation](#installation)
+* [Features](#features)
+* [User Guide](#user-guide)
 * [Community Feedback](#community-feedback)
 * [Developer Guide](#developer-guide)
 * [Deployment](#deployment)
+* [Installation](#installation)
+* [Application Design](#application-design)
 * [Development History](#development-history)
 * [Team](#team)
 
@@ -18,52 +21,54 @@ The solution: Manoa ICStudy is an application for UHM ICS students to self-organ
 
 ## Features
 - Create face-to-face study sessions
-  - Set location, course, date, time, description, and priorities
-  - Finds someone who has previously taken the course and/or someone who is currently taking it
+  - Set location, course, date, time, and description
   - Finds available study sessions to join
-  - Highlight upcoming sessions today and tomorrow
+  - Automatically sets students in the study session to students and mentors
 - Personal User page
 - Set courses you have taken and courses you are willing to help others in
+- Leaderboard where you gain more points based on joining sessions
 
 
 ## User Guide
-### ALL IMAGE WILL BE CHANGE IN THE FINAL RELEASE VERSION
-Here are the pages we plan to have on our website:
+Here are the user pages have on our website:
 
-- Landing page
+- Landing page: This is where you will visit first when viewing our site
 ![Landing Page](images/LandingPage.png)
 
-- Sign in page
+- Sign in page: This is where you can sign into your account
 ![Sign In Page](images/Login.png)
 
-- Register page
+- Register page: If you don't have an account, you can sign up for one here
 ![Register Page](images/SignUp.png)
 
-- User profile page
+- User profile page: This is where you can view and/or edit your information you set up when you first made an account
 ![User Profile Page](images/UserProfile.png)
 
-- Calendar page
+- Calendar page: This is where you can see all of the planned study sessiona
 ![Calendar Page](images/Calendar.png)
 
-- Create study session page
+- Create study session page: This is where you can create a study session
 ![Create Study Session Page](images/CreateStudySessions.png)
 
-- Study session page
+- Study session page: This is a list of all study sessions where you can join, report, delete(if you are the owner), and learn more about the study session
 ![Study Session Page](images/StudySessions.png)
 
-- Contact page
+- Community Feedback: We are interested in your experience using Manoa ICStudy! If you would like, please take a couple of minutes to fill out this Feedback Form.
+![Community Feedback Page](images/Feedback.png)
 
-  - Community Feedback: We are interested in your experience using Manoa ICStudy! If you would like, please take a couple of minutes to fill out this Feedback Form. It can also be found under our contact page.
-  ![Community Feedback Page](images/Feedback.png)
+## Community Feedback
+We have gotten a lot of feedback and overall comments from the UH community. Here are some of their remarks:
+- "overall, I think the website is good, I liked that there was a calendar aspect to it, as well as a leaderboard to make users want to engage and use the website more. The study sessions were also clean, you can see the important notes easily." - Gwyneth
+- "Design of the site was intuitive and polished. I especially liked the look of the study session cards and integration of the calendar. I thought the landing page with the animations was nice. I also liked that there were a lot of resources in the footer. Overall, great job! :)" - Kayla
+- "The site is easy and simple to navigate. All the information I need to know for the study sessions are available with a single click." - Joshua
+- "Good user interface, easy to use scheduling features, and visually appealing display" - anonymous
+- "Overall, this website was really fun and has a really nice design." - Urban 
 
 ## Developer Guide
 This section provides information to developers who wish to use this code base for their own developmental tasks.
 
 ## Deployment
-We've deployed our application through Digital Ocean [here](https://manoa-icstudy.site/)
-- Basic User
-  - Username: john@foo.com
-  - Password: changeme
+We've deployed our application and it can be found [here](https://manoa-icstudy.site/)
 
 ### Installation
 First, install Meteor.
